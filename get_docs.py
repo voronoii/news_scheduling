@@ -55,4 +55,4 @@ def get_vk_news(date_range:int):
 
 
 if __name__ == "__main__":
-    get_vk_news(date_range)
+    get_vk_news(date_range=1)
